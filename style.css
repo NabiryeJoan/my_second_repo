@@ -1,0 +1,135 @@
+h1{
+    color:pink;
+    font-size: 50px;
+    margin: 0PX;
+    background-color:blue;
+    text-align:center;
+    width: 50;
+  }
+
+  div h1{
+    color: rgb0, 0, blue;
+    text-align: center;
+    border-radius: 12px;
+    
+    
+}
+h2 {
+  color: blue;
+  font-size: 30px;
+  margin: 0;
+  background-color: aqua;
+  font-style: italic;
+  text-align:center;
+  border-radius: 12px;
+}
+h3 {
+  text-align: center;
+  font-size: 40px;
+}
+ h4{
+  text-align: center;
+  font-size: 40px;
+}
+
+     a{
+       text-decoration: none;
+      color: red;
+      font-size: 20px;
+      font-weight:600 ;
+      padding: 0%,20%;
+      letter-spacing: 2%, 3%;
+      line-height:  40px; 
+     }
+     ul{
+       text-align: center;
+      list-style: inside;
+
+
+    }
+    /* #toggle_drop-menu{
+      border-radius: 8px;
+
+    }
+    .toggle_block-me{font-style: italic; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;} */
+
+    img{
+      width: 50%;
+      height: auto;
+      text-align: justify;
+     float: 30%;
+      margin-left: 25%;
+      position:relative;
+
+    }
+    p{
+      color: black;
+      text-align: center;
+      font-size: 30px;
+    
+    }
+    img.img-fluid{
+      transition-duration: 0.4s;
+      animation: rotateAnim 30s infinite;
+      max-width: 100%;
+    height: auto;
+
+    }
+    h5{
+      color: white;
+      font-size: 20px;
+      font-weight:600 ;
+      padding: 0%,20%;
+      letter-spacing: 0, 3%;
+      line-height:  40px; 
+      text-align: center;
+      background-color: slateblue;
+    }
+    nav{
+      color: black;
+      font-size: 20px;
+      font-weight:600 ;
+      padding: 0%,20%;
+      letter-spacing: 0, 3%;
+      line-height:  40px; 
+      text-align: center;
+
+    }
+    img.F{
+      width: 50%;
+      height:80% ;
+      text-align: left;
+     float: 30%;
+      margin-left: 25%;
+      position:relative;
+      margin: 2%;
+      padding-left: 4%;
+      
+    }
+      
+   .absolute{
+  display: flex;
+     
+
+   }
+   .s{
+    color: white;
+    font-size: 20px;
+    font-weight:600 ;
+    padding: 0%,20%;
+    letter-spacing: 0, 3%;
+    line-height:  40px; 
+    text-align: center;
+    background-color: slateblue;
+   }
+  
+
+    body{
+      background-color: rgba(243, 217, 179, 0.89);
+      background-image: url(../newhtml/css);
+    }
+
+    
+   
+    
+  
